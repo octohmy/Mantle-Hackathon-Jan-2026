@@ -31,7 +31,9 @@ _Project submission for the Mantle Hackathon (January 2026)._
 - Solidity
 - Mantle Sepolia Testnet
 - Web frontend
+- Post-quantum–encrypted user wallet private keys at rest
 - Off-chain post-quantum document signing (ML-DSA-65)
+
 
 ---
 
