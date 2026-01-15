@@ -2,6 +2,9 @@
 
 **Project submission for the Mantle Hackathon (January 2026).**
 
+**Vezll** — A DeFi-backed escrow and settlement platform built on Mantle for international shipping trade finance.
+
+
 ---
 
 ## 📜 Smart Contract
